@@ -33,6 +33,10 @@ Veja o projeto rodando [aqui](https://expanding-cards-project-blush.vercel.app/)
 
 
 
+https://github.com/AndieReis/expanding-cards/assets/122743869/1fcc9661-64dc-4b66-b977-71cff598120d
+
+
+
 --------------------------------------------------------------------------------
 
 
